@@ -2,19 +2,15 @@
 
 ###
 
-<p align="left">
-  - Fullstack Web Developer
-  <br>
-  - 23 years
-  <br>
-  - Bauru SP
-  <br>
-  - Graduado em Ciências da Computação
-  <br>
-  - Graduando em MBA de Engenharia Software
-  <br>
-  -Aprimorando minhas habilidades em .NET Core, APIs, desenvolvimento de aplicações web bem estruturadas no front e no back. Com interesse em DDD, clean architecture e design patterns.
-</p>
+<ul align="left">
+  <li>  👨🏾‍💻 Fullstack Web Developer </li>
+  <li>  📍 Bauru SP </li>
+  <li>  📚 Graduado em Ciências da Computação </li>
+  <li>  📚 Graduando em MBA de Engenharia Software </li>
+  <li>   
+    📖 Aprimorando minhas habilidades em .NET Core, APIs, desenvolvimento de aplicações web bem estruturadas no front e no back. Com interesse atual em DDD, Clean Architecture e Design Patterns.
+  </li>
+</ul>
 
 ###
 
