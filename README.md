@@ -6,7 +6,6 @@
   <li>  👨🏾‍💻 Fullstack Web Developer </li>
   <li>  📍 Bauru SP </li>
   <li>  📚 Graduado em Ciências da Computação </li>
-  <li>  📚 Graduando em MBA de Engenharia Software </li>
   <li>   
     📖 Aprimorando minhas habilidades em .NET Core, APIs, desenvolvimento de aplicações web bem estruturadas no front e no back. Com interesse atual em DDD, Clean Architecture e Design Patterns.
   </li>
